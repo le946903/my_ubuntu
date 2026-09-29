@@ -1,7 +1,6 @@
-# Advanced P2P LAN Chat + Texas Hold'em
+# P2P chat with poker
 
-A peer-to-peer LAN chat client with causal-order message delivery and a
-fully distributed Texas Hold'em poker table.
+A peer-to-peer LAN chat client and fully distributed poker table.
 
 ## Build
 
