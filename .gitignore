@@ -1,0 +1,30 @@
+# Build directories
+build/
+cmake-build-*/
+out/
+
+# Compiled binaries
+new_advanced_chat
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+
+# CMake artifacts (if generated outside build/)
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Debug / runtime logs
+poker_debug_*.log
+*.log
+
+# Editor / OS junk
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
