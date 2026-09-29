@@ -1,4 +1,4 @@
-# P2P chat with poker
+# P2P chat
 
 A peer-to-peer LAN chat client and fully distributed poker table.
 
